@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :point_right: I'm Anas Touil, currently an engineering student:student: @ ESIEA Paris
+- :technologist: I'm part-time cloud engineer @ Orange as part of my enginnering apprenticeship
+- ☸ I'm currently learning open source cloud related technologies
+
+:sparkles:My corporate github contribution : [atouil-orange](https://github.com/atouil-orange):sparkles:
+
 <!--
 **dewey-typical/dewey-typical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
