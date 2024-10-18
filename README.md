@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- :point_right: I'm Anas Touil, currently an engineering student:student: @ ESIEA Paris
-- :technologist: I'm part-time cloud engineer @ Orange as part of my enginnering apprenticeship
+- :point_right: I'm Anas Touil, an Engineer Graduated from [ESIEA Paris](https://www.esiea.fr/en/)
+- :technologist: I'm a Cloud Consultant @ [Sofrecom](https://www.sofrecom.com/en/english.html)
 - ☸ I'm currently learning open source cloud related technologies
-
-:sparkles:My corporate github contribution : [atouil-orange](https://github.com/atouil-orange):sparkles:
+- I'm a [Certified Kubernetes Application Developer](https://www.credly.com/badges/e5c19473-1a1f-4fa1-9ecb-dd5b8a479f47) and currently preparing CKA certification
 
 <!--
 **dewey-typical/dewey-typical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
