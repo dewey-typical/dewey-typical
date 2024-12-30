@@ -3,8 +3,7 @@
 - :point_right: I'm Anas Touil, an Engineer Graduated from [ESIEA Paris](https://www.esiea.fr/en/)
 - :technologist: I'm a Cloud Consultant @ [Sofrecom](https://www.sofrecom.com/en/english.html)
 - ☸ I'm currently learning open source cloud related technologies
-- I'm a [Certified Kubernetes Application Developer](https://www.credly.com/badges/e5c19473-1a1f-4fa1-9ecb-dd5b8a479f47) and currently preparing CKA certification
-
+- I'm a [Certified Kubernetes Application Developer](https://www.credly.com/badges/e5c19473-1a1f-4fa1-9ecb-dd5b8a479f47) and a [Certified Kubernetes Adminstrator](https://www.credly.com/badges/ad9850f6-b92a-41df-b107-3d6f36856c8c)
 <!--
 **dewey-typical/dewey-typical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
